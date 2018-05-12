@@ -1,0 +1,28 @@
+_repo: The-Love-Story-of-Abner-Stone_28383
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Litsey, Edwin Carlile
+    alias: Litsey, E. Carl (Edwin Carlile)
+    birthdate: 1874
+    deathdate: 1970
+    gutenberg_agent_id: '33301'
+    url: http://www.gutenberg.org/2009/agents/33301
+description: ''
+gutenberg_issued: '2009-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28383'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kentucky -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Love stories'
+title: The Love Story of Abner Stone
+url: http://www.gutenberg.org/ebooks/28383
