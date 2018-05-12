@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33301'
     url: http://www.gutenberg.org/2009/agents/33301
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28383#The-Love-Story-of-Abner-Stone
 gutenberg_issued: '2009-03-22'
 gutenberg_type: Text
 identifiers:
